@@ -10,25 +10,25 @@
 </p>
 
 
-- 🔭 I'm currently working on **MERN Stack Web Projects and JavaScript Applications
-**
+- 🔭 I'm currently working on MERN Stack Web Projects and JavaScript Applications
 
-- 🌱 I'm currently learning **MERN Stack, Data Structures & Algorithms using Java
-**
 
-- 👯 I'm looking to collaborate on **Open Source Web Development Projects
-**
+- 🌱 I'm currently learning MERN Stack, Data Structures & Algorithms using Java
+  
 
-- 🤝 I'm looking for help with **Backend Development and System Design
+- 👯 I'm looking to collaborate on Open Source Web Development Projects
+  
+
+- 🤝 I'm looking for help with Backend Development and System Design
 **
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, MongoDB, Express.js, React.js, Node.js
-**
+  
 
-- 📫 How to reach me **akul212006@gmail.com**
+- 📫 How to reach me akul212006@gmail.com**
 
-- ⚡ Fun fact **I enjoy turning coffee into code ☕💻
-**
+- ⚡ Fun fact I enjoy turning coffee into code ☕💻
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
