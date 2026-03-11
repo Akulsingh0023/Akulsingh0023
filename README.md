@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akul Singh</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+<h3 align="center">Passionate JavaScript & MERN Stack Developer</h3>
 
 <p align="center">
 📧 Email: akul212006@gmail.com
@@ -9,10 +9,6 @@
 <img src="https://komarev.com/ghpvc/?username=Akulsingh0023&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-
-# Hi 👋, I'm Akul Singh
-
-### Passionate JavaScript & MERN Stack Developer
 
 - 🔭 I'm currently working on **MERN Stack Web Projects and JavaScript Applications
 **
