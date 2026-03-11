@@ -25,7 +25,7 @@
 - 💬 Ask me about HTML, CSS, JavaScript, Java, MongoDB, Express.js, React.js, Node.js
   
 
-- 📫 How to reach me akul212006@gmail.com**
+- 📫 How to reach me akul212006@gmail.com
 
 - ⚡ Fun fact I enjoy turning coffee into code ☕💻
 
