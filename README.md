@@ -20,9 +20,9 @@
   
 
 - 🤝 I'm looking for help with Backend Development and System Design
-**
+  
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, MongoDB, Express.js, React.js, Node.js
+- 💬 Ask me about HTML, CSS, JavaScript, Java, MongoDB, Express.js, React.js, Node.js
   
 
 - 📫 How to reach me akul212006@gmail.com**
