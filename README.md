@@ -27,7 +27,6 @@
 <a href="https://github.com/Akulsingh0023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Akulsingh0023" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/akul-singh-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akul-singh-tech" height="30" width="40" /></a>
 <a href="https://twitter.com/https://x.com/AkulSin60411978" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/AkulSin60411978" height="30" width="40" /></a>
-<a href="https://codechef.com/users/https://www.codechef.com/users/akul_singh_84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="https://www.codechef.com/users/akul_singh_84" height="30" width="40" /></a>
 <a href="https://leetcode.com/https://leetcode.com/u/Akul212006/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Akul212006/" height="30" width="40" /></a>
 </p>
 
