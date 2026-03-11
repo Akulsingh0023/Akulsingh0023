@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akul Singh</h1>
-<h3 align="center">Passionate JavaScript & MERN Stack Developer</h3>
+<h3 align="center">Passionate JavaScript & MERN Stack Developer from India</h3>
 
 <p align="center">
 📧 Email: akul212006@gmail.com
